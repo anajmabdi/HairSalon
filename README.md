@@ -69,8 +69,7 @@ You must make sure the following software packages are locally installed in orde
 
 ## To run the server:
 - Navigate to this project's production directory and run 'dotnet restore' if you haven't already. This will establish project-specific tools and dependencies that are listed in the project file
-- Run 'dotnet watch' to start the server. 
-- Run 'dotnet run' to run the application.
+- Run 'dotnet watch' to start the server.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
